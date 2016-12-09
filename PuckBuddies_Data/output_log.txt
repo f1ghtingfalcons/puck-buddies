@@ -1,0 +1,44 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ty\SkyDrive\Unity\Tutorial\PuckBuddies_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ty\SkyDrive\Unity\Tutorial\PuckBuddies_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ty\SkyDrive\Unity\Tutorial\PuckBuddies_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ty\SkyDrive\Unity\Tutorial\PuckBuddies_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ty\SkyDrive\Unity\Tutorial\PuckBuddies_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ty\SkyDrive\Unity\Tutorial\PuckBuddies_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ty\SkyDrive\Unity\Tutorial\PuckBuddies_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ty\SkyDrive\Unity\Tutorial\PuckBuddies_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ty\SkyDrive\Unity\Tutorial\PuckBuddies_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Ty\SkyDrive\Unity\Tutorial\PuckBuddies_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.134 seconds
+Platform assembly: C:\Users\Ty\SkyDrive\Unity\Tutorial\PuckBuddies_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ty\SkyDrive\Unity\Tutorial\PuckBuddies_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 4480x1080 at -2560,0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2560x1080 60Hz; virtual: 4480x1080 at -2560,0
+<RI> Initialized touch support.
+UnloadTime: 0.573257 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.318797 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1348.
+Total: 0.390679 ms (FindLiveObjects: 0.082580 ms CreateObjectMapping: 0.042341 ms MarkObjects: 0.256148 ms  DeleteObjects: 0.009008 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at goal.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Triggered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1430 -> priority: 1 

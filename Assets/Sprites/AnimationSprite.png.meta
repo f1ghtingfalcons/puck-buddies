@@ -1,0 +1,1627 @@
+fileFormatVersion: 2
+guid: 33f797388379d584b9cd52fadaf4bb07
+timeCreated: 1478667756
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AnimationSprite_0
+    21300002: AnimationSprite_1
+    21300004: AnimationSprite_2
+    21300006: AnimationSprite_3
+    21300008: AnimationSprite_4
+    21300010: AnimationSprite_5
+    21300012: AnimationSprite_6
+    21300014: AnimationSprite_7
+    21300016: AnimationSprite_8
+    21300018: AnimationSprite_9
+    21300020: AnimationSprite_10
+    21300022: AnimationSprite_11
+    21300024: AnimationSprite_12
+    21300026: AnimationSprite_13
+    21300028: AnimationSprite_14
+    21300030: AnimationSprite_15
+    21300032: AnimationSprite_16
+    21300034: AnimationSprite_17
+    21300036: AnimationSprite_18
+    21300038: AnimationSprite_19
+    21300040: AnimationSprite_20
+    21300042: AnimationSprite_21
+    21300044: AnimationSprite_22
+    21300046: AnimationSprite_23
+    21300048: AnimationSprite_24
+    21300050: AnimationSprite_25
+    21300052: AnimationSprite_26
+    21300054: AnimationSprite_27
+    21300056: AnimationSprite_28
+    21300058: AnimationSprite_29
+    21300060: AnimationSprite_30
+    21300062: AnimationSprite_31
+    21300064: AnimationSprite_32
+    21300066: AnimationSprite_33
+    21300068: AnimationSprite_34
+    21300070: AnimationSprite_35
+    21300072: AnimationSprite_36
+    21300074: AnimationSprite_37
+    21300076: AnimationSprite_38
+    21300078: AnimationSprite_39
+    21300080: AnimationSprite_40
+    21300082: AnimationSprite_41
+    21300084: AnimationSprite_42
+    21300086: AnimationSprite_43
+    21300088: AnimationSprite_44
+    21300090: AnimationSprite_45
+    21300092: AnimationSprite_46
+    21300094: AnimationSprite_47
+    21300096: AnimationSprite_48
+    21300098: AnimationSprite_49
+    21300100: AnimationSprite_50
+    21300102: AnimationSprite_51
+    21300104: AnimationSprite_52
+    21300106: AnimationSprite_53
+    21300108: AnimationSprite_54
+    21300110: AnimationSprite_55
+    21300112: AnimationSprite_56
+    21300114: AnimationSprite_57
+    21300116: AnimationSprite_58
+    21300118: AnimationSprite_59
+    21300120: AnimationSprite_60
+    21300122: AnimationSprite_61
+    21300124: AnimationSprite_62
+    21300126: AnimationSprite_63
+    21300128: AnimationSprite_64
+    21300130: AnimationSprite_65
+    21300132: AnimationSprite_66
+    21300134: AnimationSprite_67
+    21300136: AnimationSprite_68
+    21300138: AnimationSprite_69
+    21300140: AnimationSprite_70
+    21300142: AnimationSprite_71
+    21300144: AnimationSprite_72
+    21300146: AnimationSprite_73
+    21300148: AnimationSprite_74
+    21300150: AnimationSprite_75
+    21300152: AnimationSprite_76
+    21300154: AnimationSprite_77
+    21300156: AnimationSprite_78
+    21300158: AnimationSprite_79
+    21300160: AnimationSprite_80
+    21300162: AnimationSprite_81
+    21300164: AnimationSprite_82
+    21300166: AnimationSprite_83
+    21300168: AnimationSprite_84
+    21300170: AnimationSprite_85
+    21300172: AnimationSprite_86
+    21300174: AnimationSprite_87
+    21300176: AnimationSprite_88
+    21300178: AnimationSprite_89
+    21300180: AnimationSprite_90
+    21300182: AnimationSprite_91
+    21300184: AnimationSprite_92
+    21300186: AnimationSprite_93
+    21300188: AnimationSprite_94
+    21300190: AnimationSprite_95
+    21300192: AnimationSprite_96
+    21300194: AnimationSprite_97
+    21300196: AnimationSprite_98
+    21300198: AnimationSprite_99
+    21300200: AnimationSprite_100
+    21300202: AnimationSprite_101
+    21300204: AnimationSprite_102
+    21300206: AnimationSprite_103
+    21300208: AnimationSprite_104
+    21300210: AnimationSprite_105
+    21300212: AnimationSprite_106
+    21300214: AnimationSprite_107
+    21300216: AnimationSprite_108
+    21300218: AnimationSprite_109
+    21300220: AnimationSprite_110
+    21300222: AnimationSprite_111
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnimationSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4440
+        width: 137
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4440
+        width: 122
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 4440
+        width: 122
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4440
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4099
+        width: 137
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4099
+        width: 122
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_6
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 4099
+        width: 122
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_7
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 4099
+        width: 140
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3758
+        width: 137
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3758
+        width: 115
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 3758
+        width: 113
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3758
+        width: 115
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_12
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 3758
+        width: 115
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_13
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3758
+        width: 138
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3416
+        width: 137
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3416
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3416
+        width: 114
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_17
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 3416
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_18
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 3416
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_19
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3416
+        width: 138
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3073
+        width: 137
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3073
+        width: 139
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_22
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 3073
+        width: 131
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3073
+        width: 139
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_24
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 3073
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_25
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3073
+        width: 131
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_26
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3073
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_27
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 3073
+        width: 131
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_28
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 3073
+        width: 124
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_29
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 3073
+        width: 133
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_30
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 3073
+        width: 137
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2730
+        width: 137
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2730
+        width: 131
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_33
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2730
+        width: 124
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_34
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2730
+        width: 131
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_35
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2730
+        width: 140
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_36
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2730
+        width: 131
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_37
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2730
+        width: 140
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_38
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 2732
+        width: 139
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_39
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 2732
+        width: 131
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_40
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 2732
+        width: 138
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_41
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 2732
+        width: 137
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2391
+        width: 137
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2398
+        width: 115
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_44
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2398
+        width: 113
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_45
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2398
+        width: 116
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_46
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2398
+        width: 122
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_47
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2398
+        width: 113
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_48
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2400
+        width: 115
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_49
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 2398
+        width: 115
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_50
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 2391
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2043
+        width: 137
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_52
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2052
+        width: 115
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_53
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2052
+        width: 115
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_54
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 2052
+        width: 114
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_55
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2052
+        width: 124
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_56
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2052
+        width: 115
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_57
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 2052
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_58
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 2052
+        width: 115
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_59
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 2043
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1703
+        width: 137
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_61
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1704
+        width: 147
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_62
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1711
+        width: 98
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_63
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1711
+        width: 100
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_64
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1711
+        width: 131
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_65
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1704
+        width: 181
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_66
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1704
+        width: 183
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_67
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1712
+        width: 115
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_68
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1711
+        width: 115
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_69
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 1712
+        width: 115
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_70
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 1712
+        width: 115
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1363
+        width: 137
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_72
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1363
+        width: 148
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_73
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1372
+        width: 97
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_74
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1372
+        width: 99
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_75
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1372
+        width: 131
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_76
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1363
+        width: 181
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_77
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1363
+        width: 183
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_78
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1372
+        width: 115
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_79
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 1372
+        width: 113
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_80
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1372
+        width: 115
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_81
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 1372
+        width: 115
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1022
+        width: 137
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_83
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1022
+        width: 122
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_84
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1022
+        width: 122
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_85
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1022
+        width: 123
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_86
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1022
+        width: 123
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_87
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1022
+        width: 138
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 137
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_89
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 679
+        width: 123
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_90
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 679
+        width: 122
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_91
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 679
+        width: 124
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_92
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 679
+        width: 124
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_93
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 679
+        width: 140
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 139
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_95
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 347
+        width: 115
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_96
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 347
+        width: 122
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 347
+        width: 124
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_98
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 347
+        width: 115
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_99
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 345
+        width: 113
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_100
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 347
+        width: 115
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_101
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 347
+        width: 115
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_102
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 340
+        width: 139
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 137
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_104
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 5
+        width: 115
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_105
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 3
+        width: 122
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_106
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4
+        width: 124
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_107
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 5
+        width: 115
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_108
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 5
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_109
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3
+        width: 115
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_110
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 6
+        width: 115
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimationSprite_111
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 0
+        width: 138
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
